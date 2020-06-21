@@ -68,13 +68,13 @@ logo = """
            \033[1;91m█░░║║║╠─║─║─║║║║║╠─░░█
            \033[1;92m█░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█ 
            \033[1;91m█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
-	   \033[1;47m \033[1;31m Coder by : Tech-Abm \033[1;0m     
+	   \033[1;47m \033[1;31m Coder by : muskan \033[1;0m     
 \033[0;95m╭════════════════════════════════════════════╮
-\033[0;91m║\033[0;91mAUTHOR : \033[0;92mTECH ABM                     \033[0;91m      ║
-\033[0;91m║\033[0;91mGITHUB :\033[0;92m https://github.com/Tech-abm   \033[0;91m     ║
-\033[0;91m║\033[0;91mFB PAGE :\033[0;92m https://m.facebook.com/Techabm \033[0;91m   ║
+\033[0;91m║\033[0;91mAUTHOR : \033[0;92mTECH   muskan           \033[0;91m      ║
+\033[0;91m║\033[0;91mGITHUB :\033[0;92m https://github.com/Tech-muskan   \033[0;91m     ║
+\033[0;91m║\033[0;91mFB PAGE :\033[0;92m https://m.facebook.com/muskan \033[0;91m   ║
 \033[0;95m╰════════════════════════════════════════════╯
-\033[1;94m⊱══════════════════⊱═⊰DISCLAIMER⊱═⊰══════════════════⊰
+\033[1;94m⊱══════════════════⊱═⊰MUSKAN.ALI⊱═⊰══════════════════⊰
 \033[1;91mWARNING :\033[1;93mUSE A FRESH ACCOUNT TO LOGIN, DO NOT USE OLD ACCOUNT LOGIN OTHERWISE YOUR ACCOUNT WILL BE BLOCK
 \033[1;91mWIFI OR MOBILE DATA :\033[1;93mDO NOT USE WIFI, ONLY MOBILE DATA USE FOR CLONING 
 \033[1;91mID NOT FOUND PROBLEM :\033[1;93mCOPY TO PROFILE PHOTO USERNAME AND THEN PASTE IN TERMUX
@@ -171,8 +171,8 @@ jalan('⊱⊹⊰━━━━━━━━━━━━━━━━━━━━━�
 jalan('\033[1;91m      \033[1;91m ENTER TOOL USERNAME AND PASSWORD \033[1;0m     ') 
 jalan('⊱⊹⊰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊱⊹⊰') 
 
-CorrectUsername = "abm"
-CorrectPassword = "abm"
+CorrectUsername = "muski"
+CorrectPassword = "muski"
 
 loop = 'true'
 while (loop == 'true'):
